@@ -24,6 +24,6 @@ Join our communities to stay updated and contribute to the discussion:
 
 extensions:
 sync(developing)
-.
+>
 lyrics extensions with many options(soon)
 uh idk
