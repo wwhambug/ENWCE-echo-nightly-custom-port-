@@ -19,3 +19,10 @@ The focus of the app has now been shifted to be [Multiplatform](https://github.c
 Join our communities to stay updated and contribute to the discussion:
 
 <a href="https://discord.gg/J3WvbBUU8Z" style="margin-right: 10px; display: inline-block;"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord" height="40" style="vertical-align: middle;"></a>
+
+# encwe (Echo Nightly with Custom extension
+
+extensions:
+sync(developing)
+lyrics extensions with many options(soon)
+uh idk
